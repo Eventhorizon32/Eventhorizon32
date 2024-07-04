@@ -1,7 +1,6 @@
 ### Hi there 👋, Amin Karami
 #### python programmer
-![python programmer](https://atriainnovation.com/uploads/2023/11/portada-9.jpg)
-
+![python programmer]
 I'm a little bit of programmer and full time learner about science, in here I'm trying to learn more about codes and share my project with others
 
 Skills: Python/R/HTML/AI
