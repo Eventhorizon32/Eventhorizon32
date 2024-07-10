@@ -1,4 +1,4 @@
-### Hi there 👋, Amin Karami
+### Hi there 👋,it's Amin Karami
 #### python programmer
 ![python programmer](https://camo.githubusercontent.com/9a8b447eca6226c059ecca43ed3f16268816e4fdd7045d7ff34cbcfee323de2e/68747470733a2f2f7777772e64726f6e6168712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f62616e6e65722d64617461626173652d6775692e737667)
 I'm a little bit of programmer and full time learner about science, in here I'm trying to learn more about codes and share my project with others
@@ -24,4 +24,4 @@ Skills: Python/R/HTML/AI
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eventhorizon32&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Eventhorizon32)  
-
+&size_weight=0.5&count_weight=0.5
