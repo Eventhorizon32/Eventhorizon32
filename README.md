@@ -2,21 +2,21 @@
 
 # 👋 Hi, I'm **Amin Karami** (Eventhorizon32)
 
-🌟 *Exploring the cosmos of code and beyond!*
+🌌 *Exploring the cosmos through code!*
 
 ---
 
 ## 🎨 **About Me**
-I'm a passionate developer diving into the realms of **Python**, **Robotics**, and **Astronomy**. My journey is a blend of coding, environmental awareness, and the mysteries of the universe.
+I'm a dedicated developer with a passion for **Python**, **Robotics**, and **Astronomy**. I love combining technology and science to solve problems and explore new possibilities.
 
-### 🔭 **Current Focus**
-- 🧠 Machine Learning
-- 🤖 Robotics & AI
-- 🌍 Environmental Tech
+### 🔭 **What I'm Up To**
+- 🌱 Learning advanced **Machine Learning** techniques.
+- 🤖 Building innovative **Robotics** projects.
+- 🌍 Advocating for **sustainable technologies**.
 
 ---
 
-## 🛠️ **Languages & Tools**
+## 🛠️ **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,30 +29,19 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 
 ---
 
-## 🌌 **Projects**
-- **[Astro-Project](https://github.com/Eventhorizon32/Astro-Project):** Empowering amateur astronomers with open-source tools.
-- **[EcoTech](https://github.com/Eventhorizon32/EcoTech):** Innovating green technologies for a sustainable future.
+## 🌌 **Highlighted Projects**
+- **[Astro-Project](https://github.com/Eventhorizon32/Astro-Project):** Tools for amateur astronomers.
+- **[EcoTech](https://github.com/Eventhorizon32/EcoTech):** Sustainable technology solutions.
 
 ---
 
-## 📚 **Pinned Repositories**
-- ![Astro-Project](https://img.shields.io/static/v1?label=Astro-Project&message=Python&color=3776AB)
-- ![EcoTech](https://img.shields.io/static/v1?label=EcoTech&message=Python&color=28A745)
-
----
-
-## 📝 **Blog & Articles**
-Check out my latest insights on [HorizonData Blog](https://horizondata.ir/blog).
-
----
-
-## 📬 **Let's Connect!**
+## 📬 **Get in Touch**
 - ✉️ [karamimohammadamin754@gmail.com](mailto:karamimohammadamin754@gmail.com)
 - 🌐 [horizondata.ir](https://horizondata.ir)
-- 🌠 *Fun Fact:* I love stargazing and Radiohead's music!
-
-![Footer Image](https://via.placeholder.com/800x100.png?text=Explore+the+universe+with+code)
 
 ---
 
-Feel free to customize and add more sections like achievements, badges, or contribution graphs to showcase your GitHub activity and contributions!
+![Footer Image](https://via.placeholder.com/800x100.png?text=Explore+the+Universe+with+Code)
+
+
+
