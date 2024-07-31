@@ -1,25 +1,27 @@
-# ![Eventhorizon32's GitHub](https://via.placeholder.com/800x200/000000/FFFFFF?text=Welcome+to+Eventhorizon32's+GitHub)
+☕ Support My Work
+If you enjoy my projects and would like to support me, consider buying me a coffee:
 
-### *Exploring the cosmos with code and curiosity*
+<a href="https://www.coffeebede.com/mak"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy me a coffee" style="width:200px;height:auto;"></a>
+
 
 
 # 👋 Hi, I'm **Amin Karami** (Eventhorizon32)
 
-🌌 *Exploring the cosmos through code!*
+🌟 *Exploring the cosmos of code and beyond!*
 
 ---
 
 ## 🎨 **About Me**
-I'm a dedicated developer with a passion for **Python**, **Robotics**, and **Astronomy**. I love combining technology and science to solve problems and explore new possibilities.
+I'm a passionate developer diving into the realms of **Python**, **Robotics**, and **Astronomy**. My journey is a blend of coding, environmental awareness, and the mysteries of the universe.
 
-### 🔭 **What I'm Up To**
-- 🌱 Learning advanced **Machine Learning** techniques.
-- 🤖 Building innovative **Robotics** projects.
-- 🌍 Advocating for **sustainable technologies**.
+### 🔭 **Current Focus**
+- 🧠 Machine Learning
+- 🤖 Robotics & AI
+- 🌍 Environmental Tech
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,19 +34,27 @@ I'm a dedicated developer with a passion for **Python**, **Robotics**, and **Ast
 
 ---
 
-## 🌌 **Highlighted Projects**
-- **[Astro-Project](https://github.com/Eventhorizon32/Astro-Project):** Tools for amateur astronomers.
-- **[EcoTech](https://github.com/Eventhorizon32/EcoTech):** Sustainable technology solutions.
+## 🌌 **Projects**
+- **[Astro-Project](https://github.com/Eventhorizon32/Astro-Project):** Empowering amateur astronomers with open-source tools.
+- **[EcoTech](https://github.com/Eventhorizon32/EcoTech):** Innovating green technologies for a sustainable future.
 
 ---
 
-## 📬 **Get in Touch**
+## 📚 **Pinned Repositories**
+- ![Astro-Project](https://img.shields.io/static/v1?label=Astro-Project&message=Python&color=3776AB)
+- ![EcoTech](https://img.shields.io/static/v1?label=EcoTech&message=Python&color=28A745)
+
+---
+
+## 📝 **Blog & Articles**
+Check out my latest insights on [HorizonData Blog](https://horizondata.ir/blog).
+
+---
+
+## 📬 **Let's Connect!**
 - ✉️ [karamimohammadamin754@gmail.com](mailto:karamimohammadamin754@gmail.com)
 - 🌐 [horizondata.ir](https://horizondata.ir)
+- 🌠 *Fun Fact:* I love stargazing and Radiohead's music!
 
----
-
-![Footer Image](https://via.placeholder.com/800x100.png?text=Explore+the+Universe+with+Code)
-
-
+![Footer Image](https://via.placeholder.com/800x100.png?text=Explore+the+universe+with+code)
 
