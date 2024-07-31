@@ -47,7 +47,7 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 ---
 
 ## 📝 **Blog & Articles**
-Check out my latest insights on [HorizonData Blog](https://horizondata.ir/blog).
+Check out my latest insights on [HorizonData Blog](https://duckboard.com).
 
 ---
 
