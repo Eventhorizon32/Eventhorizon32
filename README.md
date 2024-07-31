@@ -1,4 +1,7 @@
-![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Eventhorizon32's+GitHub)
+# ![Eventhorizon32's GitHub](https://via.placeholder.com/800x200/000000/FFFFFF?text=Welcome+to+Eventhorizon32's+GitHub)
+
+### *Exploring the cosmos with code and curiosity*
+
 
 # 👋 Hi, I'm **Amin Karami** (Eventhorizon32)
 
