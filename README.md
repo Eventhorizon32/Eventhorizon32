@@ -30,7 +30,8 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 ---
 
 ## 📊 **Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eventhorizon32&layout=compact&theme=radical)
+## Most Used Languages
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
