@@ -30,8 +30,7 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 ---
 
 ## 📊 **Most Used Languages**
-![Your Name's GitHub Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Eventhorizon32&layout=compact&theme=vue-dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eventhorizon32&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
