@@ -30,7 +30,8 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 ---
 
 ## 📊 **Most Used Languages**
-![Top Languages](https://readme-typing-svg.herokuapp.com/?lines=Python;JavaScript;HTML;CSS&center=true&width=500&height=50)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
