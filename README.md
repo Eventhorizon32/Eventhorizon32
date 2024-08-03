@@ -30,7 +30,7 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 ---
 
 ## 📊 **Most Used Languages**
-[![Your Name's GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Languages](https://readme-typing-svg.herokuapp.com/?lines=Python;JavaScript;HTML;CSS&center=true&width=500&height=50)
 
 
 ---
