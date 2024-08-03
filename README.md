@@ -30,9 +30,7 @@ I'm a passionate developer diving into the realms of **Python**, **Robotics**, a
 ---
 
 ## 📊 **Most Used Languages**
-## Most Used Languages
-## Most Used Languages
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Your Name's GitHub Languages](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=vue-dark)
 
 ---
 
