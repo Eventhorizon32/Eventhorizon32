@@ -50,6 +50,10 @@ Check out my latest insights on [HorizonData Blog](https://duckboard.net).
 
 ---
 
+## 🏆 GitHub Stats
+![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eventhorizon32&show_icons=true&theme=radical)
+
+
 ## 📬 **Let's Connect!**
 - ✉️ [karamimohammadamin754@gmail.com](mailto:karamimohammadamin754@gmail.com)
 - 🌐 [horizondata.ir](https://horizondata.ir)
