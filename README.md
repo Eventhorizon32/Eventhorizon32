@@ -1,7 +1,7 @@
 ☕ Support My Work
 If you enjoy my projects and would like to support me, consider buying me a coffee:
 
-<a href="https://www.coffeebede.com/mak"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy me a coffee" style="width:200px;height:auto;"></a>
+<a href="https://www.coffeebede.com/makhorizon1"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 
 
